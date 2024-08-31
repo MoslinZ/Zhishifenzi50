@@ -1,5 +1,5 @@
-# Zhishifenzi50
-南方人物周刊第七期公共知识分子五十人
+# 公知知识分子50人
+2004年南方人物周刊第七期公共知识分子五十人
 https://web.archive.org/web/20041014000431/http://business.sohu.com/s2004/zhishifenzi50.shtml
 
 《影响中国 公共知识分子五十人》名单
