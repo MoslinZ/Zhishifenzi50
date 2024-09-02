@@ -1,4 +1,4 @@
-# 公共知识分子 公知榜50人
+# 2004年南方人物周刊公共知识分子 公知榜50人
 2004年南方人物周刊第七期公共知识分子五十人『公知榜』
 https://web.archive.org/web/20041014000431/http://business.sohu.com/s2004/zhishifenzi50.shtml
 
