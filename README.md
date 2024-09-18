@@ -30,7 +30,10 @@ https://web.archive.org/web/20041014000431/http://business.sohu.com/s2004/zhishi
 
 　　殷海光 顾准 王若水 王小波 杨小凯 黄万里
   
- 关注我的另外一个项目【公知温铁军】
-   https://github.com/MoslinZ/TiejunWen
+ 关注我的另外一个项目【公知温铁军github】
+ 
+ https://github.com/MoslinZ/WenTieJun
+ 
+ https://github.com/MoslinZ/TiejunWen
 
   ![公知榜高清图](https://github.com/MoslinZ/Zhishifenzi50/blob/main/zhishifenzi50.shtml2160p.jpg)
