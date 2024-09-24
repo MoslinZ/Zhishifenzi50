@@ -35,8 +35,3 @@ https://web.archive.org/web/20041014000431/http://business.sohu.com/s2004/zhishi
  https://github.com/MoslinZ/WenTieJun
  
  https://github.com/MoslinZ/TiejunWen
-
-  ![公知榜高清图](https://github.com/MoslinZ/Zhishifenzi50/blob/main/zhishifenzi50.shtml2160p.jpg)
-
-
-![目录图](https://github.com/MoslinZ/Zhishifenzi50/blob/main/Screenshot_2024-09-21_014143.jpg)
