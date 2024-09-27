@@ -33,5 +33,6 @@ https://web.archive.org/web/20041014000431/http://business.sohu.com/s2004/zhishi
  关注我的另外一个项目【公知温铁军github】
  
  https://github.com/MoslinZ/WenTieJun
+ 
  https://github.com/MoslinZ/MaoYuShi
 ![公知榜图](https://github.com/MoslinZ/Zhishifenzi50/blob/main/zhishifenzi50.shtml.jpg)
